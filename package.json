@@ -1,0 +1,16 @@
+{
+  "name": "meu-banco-de-horas",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Meu Banco de Horas",
+  "scripts": {
+    "build": "echo Web app pronto para Capacitor"
+  },
+  "dependencies": {
+    "@capacitor/core": "^7.4.3"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^7.4.3",
+    "@capacitor/android": "^7.4.3"
+  }
+}

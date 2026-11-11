@@ -1,0 +1,6 @@
+{
+  "appId": "com.radjunior.meubancodehoras",
+  "appName": "Meu Banco de Horas",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
